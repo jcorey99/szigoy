@@ -1,0 +1,1 @@
+A simple pong-type game for the Nintendo Wii or Gamecube.
